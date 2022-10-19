@@ -40,7 +40,8 @@ external_link:
   exclude: ''
 filename_case: 0
 render_drafts: false
-post_asset_folder: false
+# 方便添加一些配置，比如图片什么的
+post_asset_folder: true
 relative_link: false
 future: true
 highlight:
